@@ -22,3 +22,5 @@ List of currently avalible modules
 whilst HeadlessHack is being worked on why not try out some other cheats for gmod at https://drive.google.com/drive/folders/1Y-zBrG7hWKKO4rhaU1wYOyYKq3rNBAsO
 
 Early access (REMOVED)
+
+- If you need any help with HeadlessHack, join the discord! https://discord.gg/z2Ys3qd2gY
