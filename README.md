@@ -1,5 +1,5 @@
 # HeadlessHack
-## A cheat designed for gmod
+### A cheat designed for gmod
 
 This website is under construction
 ```
