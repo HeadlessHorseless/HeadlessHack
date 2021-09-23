@@ -23,5 +23,4 @@ whilst HeadlessHack is being worked on why not try out some other cheats for gmo
 
 Early access (REMOVED)
 
-- If you need any help with HeadlessHack, join the discord! [https://discord.gg/z2Ys3qd2gY](https://discord.gg/z2Ys3qd2gY)
-)
+- If you need any help with HeadlessHack, join the discord! [https://discord.gg/z2Ys3qd2gY](https://discord.gg/z2Ys3qd2gY) (Please wait until HeadlessHack has finished development before requesting any help)
