@@ -6,7 +6,7 @@ This website is under construction
 CURRENTLY NOT AVALIBLE FOR DOWNLOAD/PURCHASE
 ```
 
-List of currently avalible modules
+List of features that i hope to add
 - Aimbot
 - ESP
 - Auto Bhop
@@ -17,7 +17,7 @@ List of currently avalible modules
 - Fullbright
 - No hands
 - Name Stealer
-- MORE COMMING SOON
+- etc
 
 whilst HeadlessHack is being worked on why not try out some other cheats for gmod at [https://drive.google.com/drive/folders/1Y-zBrG7hWKKO4rhaU1wYOyYKq3rNBAsO](https://drive.google.com/drive/folders/1Y-zBrG7hWKKO4rhaU1wYOyYKq3rNBAsO)
 
