@@ -5,8 +5,4 @@ This website is under construction
 ```
 CURRENTLY NOT AVALIBLE FOR DOWNLOAD
 ```
-
-whilst HeadlessHack is being worked on why not try out some other cheats for gmod at [https://drive.google.com/drive/folders/1Y-zBrG7hWKKO4rhaU1wYOyYKq3rNBAsO](https://drive.google.com/drive/folders/1Y-zBrG7hWKKO4rhaU1wYOyYKq3rNBAsO)
-
-
 - If you need any help with HeadlessHack, join the discord! [https://discord.gg/z2Ys3qd2gY](https://discord.gg/z2Ys3qd2gY) (Please wait until HeadlessHack has finished development before requesting any help)
