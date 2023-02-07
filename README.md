@@ -2,7 +2,7 @@
 
 This website is under construction
 ```
-Currently working on a diffrent cheat
-https://www.oanitic.tk
+Created a YT Channel for previews:
+https://www.youtube.com/@headlesshack4768
 ```
 - There is a discord you can join if you want to: [https://discord.gg/z2Ys3qd2gY](https://discord.gg/z2Ys3qd2gY)
