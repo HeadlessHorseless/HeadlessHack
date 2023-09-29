@@ -2,6 +2,11 @@
 
 This website is under construction
 ```
+Please note i recently stopped playing gmod for the time
+which means that development for this cheat is halted for some amount of time.
+
+Currently i am spending all my time on https://github.com/Project-Oanitic
+
 Created a YT Channel for previews:
 https://www.youtube.com/@headlesshack
 
